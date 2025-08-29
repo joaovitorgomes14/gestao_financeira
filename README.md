@@ -13,7 +13,7 @@ Um sistema hibrido que possibilita a gestao financeira, como controle de gastos,
 Cadastro de usuários
 Listagem de usuários
 Autenticação
-controle de saidas e entradas
+controle de saidas,entradas e
 metas 
  
 
